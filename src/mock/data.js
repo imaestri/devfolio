@@ -18,9 +18,9 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
+  paragraphOne: 'Formado em análise e desenvolvimento de sistemas em 2018/2, trabalho atualmente como analista de sistemas ERP.',
+  paragraphTwo: 'Tenho desenvolvido skills em desenvolvimento web de forma autodidata usando stacks javascript como: React, Node.',
+  paragraphThree: 'Também HTML5, CSS3, Sass, Styled Components, versionamento de código com GIT, entre outros frameworks.Tenho como hobby: jogos de FPS, fifa, séries, filmes, futebol, NFL, cerveja, café(muito café), tatuagens e dogs.',
   resume: 'https://drive.google.com/file/d/1JFz5Wj9z8uFY5Mkj-Sz-2kTgY6whR7eI/view', // if no resume, the button will not show up
 };
 
