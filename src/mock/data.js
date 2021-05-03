@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: 'Olá, meu nome é',
   name: 'Isaque Maestri',
-  subtitle: 'e eu sou um desenvolvedor full-stack.',
+  subtitle: 'e eu sou um desenvolvedor front-end.',
   cta: 'SOBRE MIM',
 };
 
@@ -28,30 +28,30 @@ export const aboutData = {
 export const projectsData = [ 
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 't&t.jpg',
+    title: 'Track & Trace Ventana Serra do Brasil(Projeto interno e privado)',
+    info: 'Front-end desenvolvido em REACT. API criada com NODE Js e EXPRESS, banco relacional(SQL SERVER) usando queryBuilder(KnexJs).',
+    info2: 'O escopo inicial abrange o desenvolvimento de uma aplicação WEB para acompanhamento do cliente. Sendo importação aérea ou marítima.',
+    url: 'http://tracktraceventanaserra.com.br/'
+   
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'natours.png',
+    title: 'Natours project',
+    info: 'Projeto sendo desenvolvido para estudo de CSS avançado com SASS. ',
+    info2: 'Natours é uma landing page, onde você consegue verificar disponibilidade de passeios e aventuras. ',
+    url: 'https://natours-project-study.netlify.app/',
+    repo: 'https://github.com/imaestri/natours-project', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'dice-game.png',
+    title: 'Dice Game',
+    info: 'Projeto criado para estudo de manipulação da DOM com Javascript puro.',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://dice-game-web.netlify.app/',
+    repo: 'https://github.com/imaestri/dice-game', // if no repo, the button will not show up
   },
 ];
 
