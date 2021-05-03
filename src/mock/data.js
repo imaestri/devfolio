@@ -31,7 +31,7 @@ export const projectsData = [
     img: 't&t.jpg',
     title: 'Track & Trace Ventana Serra do Brasil(Projeto interno e privado)',
     info: 'Front-end desenvolvido em REACT. API criada com NODE Js e EXPRESS, banco relacional(SQL SERVER) usando queryBuilder(KnexJs).',
-    info2: 'O escopo inicial abrange o desenvolvimento de uma aplicação WEB para acompanhamento do cliente. Sendo importação aérea ou marítima.',
+    info2: 'O escopo inicial abrange o desenvolvimento de uma aplicação WEB para acompanhamento da carga. Sendo importação aérea ou marítima.',
     url: 'http://tracktraceventanaserra.com.br/'
    
   },
