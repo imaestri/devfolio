@@ -28,7 +28,7 @@ export const aboutData = {
 export const projectsData = [ 
   {
     id: nanoid(),
-    img: 't&t.jpg',
+    img: 'print-track-login.jpg',
     title: 'Track & Trace Ventana Serra do Brasil(Projeto interno)',
     info: 'Front-end desenvolvido em REACT. API criada com NODE Js e EXPRESS, banco relacional(SQL SERVER) usando queryBuilder(KnexJs).',
     info2: 'O escopo inicial abrange o desenvolvimento de uma aplicação WEB para acompanhamento da carga. Sendo importação aérea ou marítima.',
