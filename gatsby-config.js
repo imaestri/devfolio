@@ -22,8 +22,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Simplefolio`,
-        short_name: `Simplefolio`,
+        name: `Imaestri | Devfolio`,
+        short_name: `Imaestri`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#02aab0`,
